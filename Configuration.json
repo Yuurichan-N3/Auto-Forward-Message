@@ -1,0 +1,35 @@
+{
+  "accounts": [
+    {
+      "api_id": "123456",
+      "api_hash": "abcdef1234567890abcdef1234567890",
+      "phone": "+628123456789",
+      "session": "session_628123456789"
+    },
+    {
+      "api_id": "789012",
+      "api_hash": "1234567890abcdef1234567890abcdef",
+      "phone": "+628987654321",
+      "session": "session_628987654321"
+    },
+    {
+      "api_id": "345678",
+      "api_hash": "abcdefabcdef1234567890abcdef1234",
+      "phone": "+628555555555",
+      "session": "session_628555555555"
+    }
+  ],
+  "groups": [
+    "-100123456789",
+    "@TargetGroup1",
+    "-100345678901",
+    "@TargetGroup2"
+  ],
+  "source_group": "-100987654321",
+  "message_id": null,
+  "delay": {
+    "min_delay": 60.0,
+    "max_delay": 120.0
+  },
+  "loop_interval": 300.0
+}
