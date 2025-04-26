@@ -69,7 +69,7 @@ The script supports two modes:
 
 ### 2. Run the Script
 ```bash
-python telegram_promo_multi_account_loop.py
+python bot.py
 ```
 
 #### Mode 1: Create
